@@ -1,7 +1,6 @@
 {
-  "name": "mi-proyecto",
+  "name": "mi-primer-proyecto",
   "version": "1.0.0",
-  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -13,3 +12,4 @@
     "react-dom": "18.2.0"
   }
 }
+
